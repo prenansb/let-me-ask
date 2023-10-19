@@ -8,8 +8,6 @@
     <img alt="Letmeask" src="cover.svg" />
 </h1>
 
-<br>
-
 ## 💻 Project
 
 Letmeask is perfect for content creators to create Q&A rooms with their audience in a very organized and democratic way.
